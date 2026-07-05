@@ -230,7 +230,8 @@ Implementado:
 - Validaciones básicas.
 - Normalización de textos.
 - Búsqueda y paginación.
-
+- Esquema SQL incluido en `schema.sql`.
+- 
 Pendiente por límite de tiempo:
 
 - Validación de ISBN mediante SOAP.
@@ -238,7 +239,6 @@ Pendiente por límite de tiempo:
 - Carga masiva de libros mediante CSV.
 - Pruebas unitarias de controlador.
 - Pruebas unitarias de servicio.
-- Esquema SQL exportado como archivo independiente.
 
 ## Notas
 
