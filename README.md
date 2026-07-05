@@ -231,7 +231,7 @@ Implementado:
 - Normalización de textos.
 - Búsqueda y paginación.
 - Esquema SQL incluido en `schema.sql`.
-- 
+
 Pendiente por límite de tiempo:
 
 - Validación de ISBN mediante SOAP.
